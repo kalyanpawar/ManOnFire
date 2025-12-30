@@ -26,7 +26,7 @@ Check if two strings are anagrams.**
 **Rotate an array to the right by K positions.
 Find all pairs in an array whose sum equals a given value.
 Remove duplicate characters from a string without using extra space.**
-Find the longest word in a sentence.
+**Find the longest word in a sentence.**
 Merge two sorted arrays without using extra space.
 Find the missing number in an array containing numbers from 1 to N.
 Find the longest common prefix among a list of strings.
